@@ -168,15 +168,15 @@ header.nav > nav > .divCarrinho img {
 }
 
 #descricaoMain >img:first-child{
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     margin-top: 10vh;
 
 }
 
 #imagemproduto img:hover{
-    width: 750px;
-    height: 750px;
+    width: 650px;
+    height: 650px;
     transition: 0.5s;
 }
 
